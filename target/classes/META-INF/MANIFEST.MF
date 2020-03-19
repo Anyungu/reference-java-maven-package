@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: marvin.ngesa
+Build-Jdk: 13.0.1
+Main-Class: com.liquid.visio.App
+Created-By: Maven Integration for Eclipse
+
